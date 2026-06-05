@@ -1,0 +1,8 @@
+{
+  "name": "omniserve",
+  "description": "Professional Food Delivery and Hotel Booking app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
